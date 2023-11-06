@@ -35,17 +35,17 @@ To remove directories with items in them, you must include -r into the rm comman
 
 * **Explain the mv and cp command. Provide at least 2 examples of each**
 The cp command copies files and directories. The mv command moves files and directories.
-  * Ex 1. cp Downloads/sword.png Pictures
-  * Ex 2. mv Downloads/sword.png Pictures/
+  * Ex 1. cp Downloads/sword.jpg Pictures
+  * Ex 2. mv Downloads/sword.jpg Pictures/
 
 ## Practice 1
-!(Practice 1)[wr5.1.png]
+![Question 1](wr5q1.png)
 
 ## Practice 2
-!(Practice 2)[wr5.2.png]
+![Question 2](wr5q2.png)
 
 ## Practice 3
-!(Practice 3)[wr5.3.png]
+![Question 3](wr5q3.png)
 
 ## Practice 4
-!(Practice 4)[wr5.4.png]
+![Question 4](wr5q4.png)
