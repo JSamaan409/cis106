@@ -15,7 +15,7 @@ Nano is a text editor for Unix using a command line interface.
 ### Start and quit vim
 To start and quit vim you would type vim in the command line and to exit you would type :q! making sure you're not in insert mode.
 ### What are the different vim modes:
-The different modes on vim include command mode, insert mode, normal mode, visual mode, select anf ex mode.
+The different modes on vim include command mode, insert mode, normal mode, visual mode, select and ex mode.
 ### Insert text in vim
 To insert text in vim you type "i" to go into insert mode. Then you can type freely.
 ### Save a file in vim
